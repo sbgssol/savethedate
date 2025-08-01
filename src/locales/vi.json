@@ -1,0 +1,14 @@
+{
+  "home": { "title": "John & Jane" },
+  "about": { "title": "Về Chúng Tôi" },
+  "gallery": { "title": "Bộ Sưu Tập" },
+  "stories": { "title": "Chuyện Tình Yêu" },
+  "rsvp": {
+    "title": "Xác Nhận Tham Dự",
+    "question": "Bạn sẽ đến chứ?",
+    "yes": "Có",
+    "no": "Không",
+    "howMany": "Bao nhiêu người?",
+    "confirm": "Xác Nhận"
+  }
+}

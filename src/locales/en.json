@@ -1,0 +1,14 @@
+{
+  "home": { "title": "John & Jane" },
+  "about": { "title": "About Us" },
+  "gallery": { "title": "Gallery" },
+  "stories": { "title": "Our Stories" },
+  "rsvp": {
+    "title": "RSVP",
+    "question": "Will you come?",
+    "yes": "Yes",
+    "no": "No",
+    "howMany": "How many people?",
+    "confirm": "Confirm"
+  }
+}
